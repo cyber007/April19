@@ -1,0 +1,223 @@
+TApril19
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator/April19.app/Info.plist April19/April19-Info.plist
+cProcessPCH /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/PrecompiledHeaders/April19-Prefix-czixmjgsyhdkxcaidfxmupedddnz/April19-Prefix.pch.pth April19/April19-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/main.o /Users/admin/Documents/Project/April19/April19/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/KeAppDelegate.o /Users/admin/Documents/Project/April19/April19/KeAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F6B5D530000000000000110
+t1332436307
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F6A3A760000000000244490
+t1332361846
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F6A3A770000000000353830
+t1332361847
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F6A3A7D0000000000905E40
+t1332361853
+s9461312
+
+N/Users/admin/Documents/Project/April19/April19/April19-Prefix.pch
+c000000004F9015A4000000000000013D
+t1334842788
+s317
+
+N/Users/admin/Documents/Project/April19/April19/BigView.m
+c000000004F901968000000000000074E
+t1334843752
+s1870
+
+N/Users/admin/Documents/Project/April19/April19/KeAppDelegate.m
+c000000004F9015A400000000000008A5
+t1334842788
+s2213
+
+N/Users/admin/Documents/Project/April19/April19/LittleView0.m
+c000000004F901968000000000000032D
+t1334843752
+s813
+
+N/Users/admin/Documents/Project/April19/April19/LittleView1.m
+c000000004F901968000000000000032D
+t1334843752
+s813
+
+N/Users/admin/Documents/Project/April19/April19/en.lproj/InfoPlist.strings
+c000000004F9015A4000000000000002D
+t1334842788
+s45
+
+N/Users/admin/Documents/Project/April19/April19/main.m
+c000000004F9015A40000000000000154
+t1334842788
+s340
+
+N/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/April19.LinkFileList
+c000000004F9019680000000000000326
+t1334843752
+s806
+
+N/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/BigView.o
+t2
+s0
+
+N/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/KeAppDelegate.o
+t2
+s0
+
+N/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/LittleView0.o
+t2
+s0
+
+N/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/LittleView1.o
+t2
+s0
+
+N/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/PrecompiledHeaders/April19-Prefix-czixmjgsyhdkxcaidfxmupedddnz/April19-Prefix.pch.pth
+t2
+s0
+
+N/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator/April19.app
+t2
+s0
+
+N/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator/April19.app.dSYM
+t2
+s0
+
+N/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator/April19.app/April19
+t2
+s0
+
+N/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator/April19.app/Info.plist
+t2
+s0
+
+N/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator/April19.app/PkgInfo
+t2
+s0
+
+N/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator/April19.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+NApril19/April19-Info.plist
+c000000004F9015A40000000000000493
+t1334842788
+s1171
+
+CBuild AST from /Users/admin/Documents/Project/April19/April19/BigView.m
+r0
+
+CBuild AST from /Users/admin/Documents/Project/April19/April19/KeAppDelegate.m
+r0
+
+CBuild AST from /Users/admin/Documents/Project/April19/April19/LittleView0.m
+r0
+
+CBuild AST from /Users/admin/Documents/Project/April19/April19/LittleView1.m
+r0
+
+CBuild AST from /Users/admin/Documents/Project/April19/April19/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciese5b7b4e85040b541^2c67c7e85040b541^---0#1#0#--18"Check dependencies36"C070EDB8-E6EC-401D-B737-85EA4FDC7759-
+
+CCompileC BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/BigView.o /Users/admin/Documents/Project/April19/April19/BigView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/KeAppDelegate.o /Users/admin/Documents/Project/April19/April19/KeAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356536553.218304
+e356536553.314264
+r0
+xCompileC
+xBuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/KeAppDelegate.o
+x/Users/admin/Documents/Project/April19/April19/KeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/admin/Documents/Project/April19/April19/KeAppDelegate.m:9:
+o/Users/admin/Documents/Project/April19/April19/KeAppDelegate.h:15:5: error: unknown type name 'BigView'
+o    BigView *bigView;
+o    ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/admin/Documents/Project/April19/April19/KeAppDelegate.ma88b40e95040b541^556c50e95040b541^-239"In file included from /Users/admin/Documents/Project/April19/April19/KeAppDelegate.m:9:/Users/admin/Documents/Project/April19/April19/KeAppDelegate.h:15:5: error: unknown type name 'BigView'    BigView *bigView;    ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@27"Unknown type name 'BigView'-356536553#18446744073709551615#0#1(2@87"In file included from /Users/admin/Documents/Project/April19/April19/KeAppDelegate.m:9:-356536553#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@78"file://localhost/Users/admin/Documents/Project/April19/April19/KeAppDelegate.m0000000000000000^8#8#8#8#146#0#30"Apple LLVM compiler 3.1 Notice--2#27"com.apple.dt.IDE.diagnostic3@78"file://localhost/Users/admin/Documents/Project/April19/April19/KeAppDelegate.h0000000000000000^14#4#14#4#312#0#11"Parse Issue--0#0#0#-19%DVTDocumentLocation4@78"file://localhost/Users/admin/Documents/Project/April19/April19/KeAppDelegate.m0000000000000000^3649"CompileC BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/KeAppDelegate.o April19/KeAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Project/April19    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/April19-generated-files.hmap -I/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/April19-own-target-headers.hmap -I/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/April19-all-target-headers.hmap -iquote /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/April19-project-headers.hmap -I/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator/include -I/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/DerivedSources/i386 -I/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/DerivedSources -F/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator -include /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/PrecompiledHeaders/April19-Prefix-czixmjgsyhdkxcaidfxmupedddnz/April19-Prefix.pch -MMD -MT dependencies -MF /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/KeAppDelegate.d --serialize-diagnostics /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/KeAppDelegate.dia -c /Users/admin/Documents/Project/April19/April19/KeAppDelegate.m -o /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/KeAppDelegate.o36"09685EB6-C84E-435A-AA0B-BEB3F04121A9-
+
+CCompileC BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/LittleView0.o /Users/admin/Documents/Project/April19/April19/LittleView0.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/LittleView1.o /Users/admin/Documents/Project/April19/April19/LittleView1.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/main.o /Users/admin/Documents/Project/April19/April19/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356536553.218293
+e356536553.313843
+r0
+xCompileC
+xBuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/main.o
+x/Users/admin/Documents/Project/April19/April19/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/admin/Documents/Project/April19/April19/main.m:11:
+o/Users/admin/Documents/Project/April19/April19/KeAppDelegate.h:15:5: error: unknown type name 'BigView'
+o    BigView *bigView;
+o    ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/admin/Documents/Project/April19/April19/main.meb8b40e95040b541^6a5050e95040b541^-231"In file included from /Users/admin/Documents/Project/April19/April19/main.m:11:/Users/admin/Documents/Project/April19/April19/KeAppDelegate.h:15:5: error: unknown type name 'BigView'    BigView *bigView;    ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@27"Unknown type name 'BigView'-356536553#18446744073709551615#0#1(2@79"In file included from /Users/admin/Documents/Project/April19/April19/main.m:11:-356536553#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@69"file://localhost/Users/admin/Documents/Project/April19/April19/main.m0000000000000000^10#8#10#8#162#0#30"Apple LLVM compiler 3.1 Notice--2#27"com.apple.dt.IDE.diagnostic3@78"file://localhost/Users/admin/Documents/Project/April19/April19/KeAppDelegate.h0000000000000000^14#4#14#4#312#0#11"Parse Issue--0#0#0#-19%DVTDocumentLocation4@69"file://localhost/Users/admin/Documents/Project/April19/April19/main.m0000000000000000^3595"CompileC BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/main.o April19/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Project/April19    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/April19-generated-files.hmap -I/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/April19-own-target-headers.hmap -I/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/April19-all-target-headers.hmap -iquote /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/April19-project-headers.hmap -I/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator/include -I/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/DerivedSources/i386 -I/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/DerivedSources -F/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator -include /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/PrecompiledHeaders/April19-Prefix-czixmjgsyhdkxcaidfxmupedddnz/April19-Prefix.pch -MMD -MT dependencies -MF /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/main.dia -c /Users/admin/Documents/Project/April19/April19/main.m -o /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/Objects-normal/i386/main.o36"1AF9B0CD-FCA7-4113-9887-1099BD3FBA09-
+
+CCopyStringsFile /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator/April19.app/en.lproj/InfoPlist.strings April19/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator/April19.app.dSYM /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator/April19.app/April19
+r0
+
+CLd /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator/April19.app/April19 normal i386
+r0
+
+CProcessInfoPlistFile /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator/April19.app/Info.plist April19/April19-Info.plist
+s356536552.794206
+e356536552.801856
+r1
+xProcessInfoPlistFile
+x/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator/April19.app/Info.plist
+xApril19/April19-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process April19/April19-Info.plist226dcbe85040b541^3354cde85040b541^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/admin/Documents/Project/April19/April19/April19-Info.plist0000000000000000^737"ProcessInfoPlistFile BuildOutput/April19/Build/Products/Debug-iphonesimulator/April19.app/Info.plist April19/April19-Info.plist    cd /Users/admin/Documents/Project/April19    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility April19/April19-Info.plist -genpkginfo /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator/April19.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator/April19.app/Info.plist36"6B700ABF-7C51-4C3D-AB4E-3056E0B7C491-
+
+CProcessPCH /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/PrecompiledHeaders/April19-Prefix-czixmjgsyhdkxcaidfxmupedddnz/April19-Prefix.pch.pth April19/April19-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356536552.821649
+e356536553.210556
+r1
+xProcessPCH
+x/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/PrecompiledHeaders/April19-Prefix-czixmjgsyhdkxcaidfxmupedddnz/April19-Prefix.pch.pth
+xApril19/April19-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile April19/April19-Prefix.pch3a93d2e85040b541^ace635e95040b541^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/admin/Documents/Project/April19/April19/April19-Prefix.pch0000000000000000^3490"ProcessPCH BuildOutput/April19/Build/Intermediates/PrecompiledHeaders/April19-Prefix-czixmjgsyhdkxcaidfxmupedddnz/April19-Prefix.pch.pth April19/April19-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Project/April19    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/April19-generated-files.hmap -I/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/April19-own-target-headers.hmap -I/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/April19-all-target-headers.hmap -iquote /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/April19-project-headers.hmap -I/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator/include -I/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/DerivedSources/i386 -I/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/April19.build/Debug-iphonesimulator/April19.build/DerivedSources -F/Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/PrecompiledHeaders/April19-Prefix-czixmjgsyhdkxcaidfxmupedddnz/April19-Prefix.pch.dia -c /Users/admin/Documents/Project/April19/April19/April19-Prefix.pch -o /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/PrecompiledHeaders/April19-Prefix-czixmjgsyhdkxcaidfxmupedddnz/April19-Prefix.pch.pth -MMD -MT dependencies -MF /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Intermediates/PrecompiledHeaders/April19-Prefix-czixmjgsyhdkxcaidfxmupedddnz/April19-Prefix.pch.d36"DD3606C9-0A84-4A39-941D-E91046FAB945-
+
+CProcessPCH /Users/admin/Documents/Project/April19/BuildOutput/April19/Index/PrecompiledHeaders/April19-Prefix-cczdjcwvoxkxitadfxmyddcflszc_ast/April19-Prefix.pch.pth April19/April19-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/admin/Documents/Project/April19/BuildOutput/April19/Build/Products/Debug-iphonesimulator/April19.app
+r0
+
